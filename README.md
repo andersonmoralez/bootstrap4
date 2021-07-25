@@ -31,5 +31,5 @@ sass --version
 
 Compile Sass for CSS! In project folder, execute
 ```
-sass --watch node_domules/bootstrap/scss:node_modules/bootstrap/compiler
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
 ```
